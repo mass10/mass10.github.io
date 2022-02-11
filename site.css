@@ -9,6 +9,19 @@ div.content-main-padding {
     padding-right: 140px;
 }
 
+h2.section-title {
+    margin-top: 60px;
+    margin-bottom: 16px;
+}
+
+p.line-indented {
+    text-indent: 18px;
+}
+
+li.li-high {
+    line-height: 1.8;
+}
+
 @media (max-width: 767px) {
     div.content-main-padding {
         padding: 18px;
