@@ -1,0 +1,14 @@
+html, body, form {
+    margin: 0px;
+    font-family: Consolas, monospace, MS Gothic;
+}
+
+div.content-main-padding {
+    padding: 60px;
+}
+
+@media (max-width: 767px) {
+    div.content-main-padding {
+        padding: 18px;
+    }	
+}
