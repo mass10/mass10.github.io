@@ -15,6 +15,7 @@ h2.section-title {
 }
 
 p.line-indented {
+    margin: auto;
     text-indent: 18px;
     line-height: 1.8;
 }
