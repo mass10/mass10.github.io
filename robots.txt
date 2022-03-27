@@ -1,0 +1,5 @@
+User-agent: Googlebot
+Disallow: /site.css
+
+User-agent: *
+Disallow: /site.css
