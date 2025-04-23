@@ -12,6 +12,8 @@ div.content-main-padding {
 h2.section-title {
     margin-top: 60px;
     margin-bottom: 16px;
+    padding: 14px;
+    border-bottom: 2px solid #888;
 }
 
 p.line-indented {
