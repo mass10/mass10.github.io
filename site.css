@@ -1,33 +1,35 @@
-html, body, form {
-    margin: 0px;
-    font-family: "BIZ UDゴシック", Consolas, monospace;
+html,
+body,
+form {
+	margin: 0px;
+	font-family: "BIZ UDゴシック", Consolas, monospace;
 }
 
 div.content-main-padding {
-    padding-top: 60px;
-    padding-left: 140px;
-    padding-right: 140px;
+	padding-top: 60px;
+	padding-left: 140px;
+	padding-right: 140px;
 }
 
 h2.section-title {
-    margin-top: 60px;
-    margin-bottom: 16px;
-    padding: 14px;
-    border-bottom: 2px solid #888;
+	margin-top: 60px;
+	margin-bottom: 16px;
+	padding: 14px;
+	border-bottom: 2px solid #888;
 }
 
 p.line-indented {
-    margin: auto;
-    text-indent: 18px;
-    line-height: 1.8;
+	margin: auto;
+	text-indent: 18px;
+	line-height: 1.8;
 }
 
 li.li-high {
-    line-height: 1.8;
+	line-height: 1.8;
 }
 
 @media (max-width: 767px) {
-    div.content-main-padding {
-        padding: 18px;
-    }	
+	div.content-main-padding {
+		padding: 18px;
+	}
 }
